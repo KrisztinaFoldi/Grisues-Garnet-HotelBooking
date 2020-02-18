@@ -10,10 +10,10 @@
       
 ### My contribution: 
 **1. Edit info about the hotel:** 
-_  Creation of the controller/service/view/model and logic for this feature, data stored in the database and the user's authorization for this page. _
+_Creation of the controller/service/view/model and logic for this feature, data stored in the database and the user's authorization for this page._
 **2. The search bar on the main page:**
-_ Using stream operations to filter the relevant hotels. _
+_Using stream operations to filter the relevant hotels.
 **3. User account's password change:**
-_ Creation of the endpoint/service/view/model and logic for this feature, data changed in the database. _
+_Creation of the endpoint/service/view/model and logic for this feature, data changed in the database._
 **4. GUI:**
-_ In several places within the application - using HTML5, CSS, Bootstrap. _
+_In several places within the application - using HTML5, CSS, Bootstrap._
