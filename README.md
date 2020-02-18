@@ -9,11 +9,15 @@
 **Technology:** ``` C#, ASP.NET Core, Azure, MySQL, HTML5, CSS, Bootstrap ```   
       
 ### My contribution: 
+
 **1. Edit info about the hotel:** 
-_Creation of the controller/service/view/model and logic for this feature, data stored in the database and the user's authorization for this page._
+Creation of the controller/service/view/model and logic for this feature, data stored in the database and the user's authorization for this page.
+
 **2. The search bar on the main page:**
-_Using stream operations to filter the relevant hotels.
+Using stream operations to filter the relevant hotels.
+
 **3. User account's password change:**
-_Creation of the endpoint/service/view/model and logic for this feature, data changed in the database._
+Creation of the endpoint/service/view/model and logic for this feature, data changed in the database.
+
 **4. GUI:**
-_In several places within the application - using HTML5, CSS, Bootstrap._
+In several places within the application - using HTML5, CSS, Bootstrap.
